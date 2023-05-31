@@ -1,7 +1,7 @@
 # 輻射磁気流体力学のサンプルコード
 
 ## メッシュ法による流体力学・磁気流体力学（1〜5章）
-[サンプルコード](textbook_sample_MHD/)
+[サンプルコード](https://github.com/tomoaki-matsumoto/textbook_sample_MHD)
 
 ## メッシュ法による輻射流体力学（6〜8章）
 サンプルコード（準備中）
