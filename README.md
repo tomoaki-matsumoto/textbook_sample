@@ -1,7 +1,7 @@
 # 輻射磁気流体力学のサンプルコード
 
 ## メッシュ法による流体力学・磁気流体力学（1〜5章）
-[サンプルコード](https://github.com/tomoaki-matsumoto/textbook_sample_MHD)  （まだPython版の解析コードに未対応です。しばしお待ちを。）
+[サンプルコード](https://github.com/tomoaki-matsumoto/textbook_sample_MHD)  （取説を書いたほうが良いかも？）
 
 Todo: 教科書に掲載できなかった HLLC の補遺を書きます。
 
