@@ -6,7 +6,7 @@
 [書籍に盛り込めなかった内容を補遺として公開しています。](https://github.com/tomoaki-matsumoto/textbook_sample/blob/main/sup.pdf)
 
 ## メッシュ法による輻射流体力学（6〜8章）
-サンプルコード（準備中）
+サンプルコード（未定）
 
 ## SPH法による輻射流体力学（9〜10章）
-サンプルコード（準備中）
+[サンプルコード](https://susa-hajime.github.io/tennmonn_SPH/)　（随時更新中）
